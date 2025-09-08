@@ -1,0 +1,13 @@
+{
+  "name": "hashira-polynomial-solver",
+  "version": "1.0.0",
+  "description": "Solution for Hashira placement assignment - Polynomial equation solver",
+  "main": "hashira_solution.js",
+  "scripts": {
+    "start": "node hashira_solution.js",
+    "test": "node hashira_solution.js"
+  },
+  "keywords": ["polynomial", "solver", "base-conversion", "vieta-formulas"],
+  "author": "Your Name",
+  "license": "MIT"
+}
